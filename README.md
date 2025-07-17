@@ -117,6 +117,7 @@ puntos = [precio * p for p in porcentajes]
 print(puntos)
 ```
 
+[Volver](#pylearninghub)
 
 ## Lección N° 3 : Manejo de Excepciones
 ### • 3.1) Manejo genérico try-except
@@ -165,6 +166,7 @@ finally:
     print("Liberando recursos")
 ```
 
+[Volver](#pylearninghub)
 
 ## Lección N° 4 : Funciones y Módulos
 ### • 4.1) Funciones: se definen con la palabra reservada `def`
@@ -213,6 +215,7 @@ print(df.columns)  # muestra las columnas disponibles
 print(df.head(10)[["callsign", "origin_country", "altitude", "sensors", "groundspeed"]])
 ```
 
+[Volver](#pylearninghub)
 
 ## Lección N° 5 : Programación Orientada a Objetos
 ### • 5.1) Principios POO
@@ -243,6 +246,7 @@ p1 = Pasajero("Ana", 35, "vip", "Londres")
 print(f"{p1.nombre} ({p1.edad}) viaja a {p1.destino} como {p1.clase}")
 ```
 
+[Volver](#pylearninghub)
 
 ## Lección N°6 : Python Avanzado
 ### • 6.1) Programas multiparadigma
@@ -314,7 +318,7 @@ with open("usuarios.csv", mode="a", newline="") as archivo:
     print(f"Usuario {nombre} ({clase}) registrado correctamente.")
 ```
 
-
+[Volver](#pylearninghub)
 
 
 
