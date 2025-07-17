@@ -12,7 +12,7 @@ Los contenidos se han organizado cuidadosamente para ofrecer una experiencia sec
 - Lección N° 3 : Excepciones
 - Lección N° 4 : Funciones y Módulos
 - Lección N° 5 : Programación Orientada a Objetos
-- [Lección N° 6 : Uso Avanzado](https://github.com/git-jrm/PyLearningHub?tab=readme-ov-file#lecci%C3%B3n-n6--python-avanzado)
+- [Lección N° 6 : Uso Avanzado](https://github.com/git-jrm/PyLearningHub?#lecci%C3%B3n-n6--python-avanzado)
 
 ## Lección N° 1 : Sentencias Básicas
 ### • 1.1) Asignación y salida
