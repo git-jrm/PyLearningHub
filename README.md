@@ -7,11 +7,11 @@ Cada Lección se compone de conceptos clave y un código de ejemplo que puedes i
 Los contenidos se han organizado cuidadosamente para ofrecer una experiencia secuencial y un aprendizaje progresivo. ¡Empecemos!
 
 ## Lecciones:
-- Lección N° 1 : Sentencias Básicas
-- Lección N° 2 : Estructuras y Sentencias iterativas
-- Lección N° 3 : Excepciones
-- Lección N° 4 : Funciones y Módulos
-- Lección N° 5 : Programación Orientada a Objetos
+- [Lección N° 1 : Sentencias Básicas](#lecci%C3%B3n-n-1--sentencias-b%C3%A1sicas)
+- [Lección N° 2 : Estructuras y Sentencias iterativas](#lección-n-2--estructuras-de-datos-y-sentencias-iterativas)
+- [Lección N° 3 : Excepciones](#lección-n-3--manejo-de-excepciones)
+- [Lección N° 4 : Funciones y Módulos](#lección-n-4--funciones-y-módulos)
+- [Lección N° 5 : Programación Orientada a Objetos](#lección-n-5--programación-orientada-a-objetos)
 - [Lección N° 6 : Uso Avanzado](#lecci%C3%B3n-n6--python-avanzado)
 
 ## Lección N° 1 : Sentencias Básicas
