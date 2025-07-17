@@ -6,7 +6,7 @@ Cada Lección se compone de conceptos clave y un código de ejemplo que puede ir
 
 Los contenidos se han organizado cuidadosamente para ofrecer una experiencia secuencial y un aprendizaje progresivo. ¡Empecemos!
 
->> (Además puede acceder a los portafolios del bootcamp ing. de datos para más contenido relacionado: [Módulo 2](https://github.com/git-jrm/portafolio-M2-ing-datos))
+> Contenido relacionado recomendado: portafolios del bootcamp ing. de datos: [Módulo 2](https://github.com/git-jrm/portafolio-M2-ing-datos), [Módulo 3](https://github.com/git-jrm/portafolio-M2-ing-datos))
 
 ## Lecciones:
 - [Lección N° 1 : Sentencias Básicas](#lecci%C3%B3n-n-1--sentencias-b%C3%A1sicas)
