@@ -2,9 +2,11 @@
 
 Bienvenid@ a `PyLearningHub` nuestro programa inteligente para aprender Python en sólo 6 lecciones, desde fundamentos hasta técnicas avanzadas.
 
-Cada Lección se compone de conceptos clave y un código de ejemplo que puedes ir escribiendo y ejecutando. Requerimientos técnicos: tener instalado Python 3.12+ y algún IDE como VS Code. Alternativamente, si no puedes instalar usa Google Colab `colab.research.google.com`.
+Cada Lección se compone de conceptos clave y un código de ejemplo que puede ir escribiendo y ejecutando. Requerimientos técnicos: tener instalado Python 3.12+ y algún IDE como VS Code. Alternativamente, si no puede instalar use Google Colab `colab.research.google.com`.
 
 Los contenidos se han organizado cuidadosamente para ofrecer una experiencia secuencial y un aprendizaje progresivo. ¡Empecemos!
+
+(Puede acceder a los portafolios del bootcamp ing. de datos: [Módulo 2](https://github.com/git-jrm/portafolio-M2-ing-datos))
 
 ## Lecciones:
 - [Lección N° 1 : Sentencias Básicas](#lecci%C3%B3n-n-1--sentencias-b%C3%A1sicas)
