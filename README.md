@@ -50,7 +50,7 @@ print(f"Es VIP: {es_vip}")  # salida operador lógico
 print(f"Ha acumulado: {puntos} puntos")  # salida
 ```
 
-[Volver](https://github.com/git-jrm/PyLearningHub)
+[Volver](#pylearninghub)
 
 ## Lección N° 2 : Estructuras de Datos y Sentencias Iterativas
 ### • 2.1) Estructuras de datos
