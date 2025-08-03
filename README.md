@@ -6,7 +6,7 @@ Cada Lección se compone de conceptos clave y un código de ejemplo que puede ir
 
 Los contenidos se han organizado cuidadosamente para ofrecer una experiencia secuencial y un aprendizaje progresivo. ¡Empecemos!
 
-> `Recomendado` portafolios ing. de datos con contenido relacionado: [Módulo 2](https://github.com/git-jrm/ing-datos-M2), [Módulo 3](https://github.com/git-jrm/ing-datos-M3)
+> `Recomendado:` portafolio de Ingeniería de Datos con contenido relacionado: [Módulo 2](https://github.com/git-jrm/ing-datos-M2), [Módulo 3](https://github.com/git-jrm/ing-datos-M3)
 
 ## Lecciones:
 - [Lección N° 1 : Sentencias Básicas](#lecci%C3%B3n-n-1--sentencias-b%C3%A1sicas)
